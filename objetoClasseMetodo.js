@@ -35,7 +35,7 @@ const jose = new Pessoa ('jose', 70, 1.75);
 console.log(jose.classificarImc());
 
 const pedro = new Pessoa ('pedro', 50, 1.60);
-console.log(jose.classificarImc());
+console.log(pedro.classificarImc());
 
 const marcos = new Pessoa ('marcos', 110, 1.80);
-console.log(jose.classificarImc());
+console.log(marcos.classificarImc());
